@@ -29,9 +29,9 @@ The main key activities of this Bluetooth-controlled home automation project inc
 
 7.Documentation and Analysis: Document the project details, including system design, implementation steps, and challenges faced. Analyze the performance and identify areas for future improvement or scaling the system.
 
-CIRCUIT DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/HOME-AUTOMATION-WITH-BLUETOOTH_Task1/commit/b0b7524f3577299b89572ae20ac364ea9d4c8516
+CIRCUIT DIAGRAM OF THE PROJECT:https://github.com/SANDUSHIVA/HOME-AUTOMATION-WITH-BLUETOOTH-Task2/commit/ce56a9f0f217f42c2b33c395d011d477df265f6c
 
-BLOCK DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/HOME-AUTOMATION-WITH-BLUETOOTH_Task1/commit/43067867140f3512985cb3abdc1a4f21eda248d6
+BLOCK DIAGRAM OF THE PROJECT:https://github.com/SANDUSHIVA/HOME-AUTOMATION-WITH-BLUETOOTH-Task2/commit/9a39c189a43f93314f9bc71ffce2be5d5526f811
 
 SOURCE CODE OF THE PROJECT: 
 #include <LiquidCrystal.h>
@@ -198,4 +198,4 @@ WORKING:
 CONCLUSION:
     In conclusion, the Bluetooth-controlled home automation system effectively demonstrates how modern technology can enhance convenience, efficiency, and control in managing household devices. By utilizing Bluetooth technology, the system provides a cost-effective and user-friendly solution for wirelessly switching devices on and off, eliminating the need for complex installations or internet connectivity. This project serves as a practical and scalable step toward creating smart homes, making everyday tasks easier while promoting energy conservation. The successful implementation of this system highlights the potential of integrating technology into daily life to improve comfort and quality, paving the way for more advanced home automation innovations in the future.
 
-OUTPUT OF THE PROJECT:https://github.com/koppisettithanushmashivani/HOME-AUTOMATION-WITH-BLUETOOTH_Task1/commit/73d0514520c2bd58118e428de008620ab7171690
+OUTPUT OF THE PROJECT:https://github.com/SANDUSHIVA/HOME-AUTOMATION-WITH-BLUETOOTH-Task2/commit/3f737917ad3482583d389eae55c10f56c02d5e5d
